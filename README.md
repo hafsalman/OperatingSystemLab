@@ -13,5 +13,6 @@ This repository contains lab assignments focused on key operating system concept
 | **Lab 04** | System Calls                                                      | Implement and experiment with key system calls in Linux.                    |
 | **Lab 06** | InterProcess Communication                                        | Explore mechanisms like pipes and message queues to enable process communication. |
 | **Lab 07** | CPU Scheduling Algorithms                                         | Implement and analyze CPU scheduling algorithms (FCFS, SJF, RR, etc.).      |
+| **Lab 08** | Threads                                                           | Implementaton of threads and mutexes     |
 
 > **Note:** There is no Lab 05!
