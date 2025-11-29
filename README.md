@@ -3,7 +3,7 @@
 Welcome to the **Operating Systems Lab Repository**!  
 This repository contains lab assignments focused on key operating system concepts.
 
-## 🧪 Labs Overview
+## Labs Overview
 
 | Lab        | Title                                                             | Description                                                                 |
 |------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------|
